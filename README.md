@@ -1,0 +1,1 @@
+This 3D model is a work in progress. I havent been able to get back to working on this one for a while now, and am not sure when I'll be able to. As of now its not got any materials, I'm not sure if I UV unwrapped it yet or not. Its still fun to look at though. Its a nice one if I do say so myself.
